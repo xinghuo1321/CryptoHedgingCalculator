@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Hedging Calculator",
+  "description": "A professional tool for BTC/ETH volatility-based hedging calculations using real-time Binance data.",
+  "requestFramePermissions": []
+}
